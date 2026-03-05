@@ -1,1 +1,2 @@
 Day 1: Introduction to Git and GitHub"Successfully completed" 
+Venue: CSM Lab-2, CSM department, GPREC
